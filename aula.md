@@ -53,3 +53,7 @@
 
   # Estrutura de Repetição
   - [x] while
+
+  # Estrutura Condicionais
+
+  - [x] switch
