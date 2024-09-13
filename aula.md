@@ -7,23 +7,23 @@
 
 ## Peças de uma linguagem
 - [x]Comentários
-- Declaração de variáveis (const, let)
+- [x]Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
-- Tipos de dados (string, number, boolean)
-- Estrutura de Dados (functions, object, array)
+- [x]Tipos de dados (string, number, boolean)
+- [x]Estrutura de Dados (functions, object, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
 ## Fases da resolução de un problema
 
-- coletar os dados
-- Processar os dados (manipular, alterar...)
-- Apresentar os dados
+- [x]coletar os dados
+- [x]Processar os dados (manipular, alterar...)
+- [x]Apresentar os dados
 
 ## Escopo e variáveis
 
-- Variáveis locais {} e globais
-- Constantes
+- [x]Variáveis locais {} e globais
+- [x]Constantes
 
 ## Tipos de Dados
 
