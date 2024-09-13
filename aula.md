@@ -36,11 +36,13 @@
 - [x]Operador de concatenação: +
 - [x]Boolean: true ou false
 - [x]Operadores de comparação: == > < <= >= !=
+- [x]Spread operator: ...
 
 ## Estrutura de dados
 
   ### Arrays
   - [x] Uma lista que contém qualquer tipo de dado
+  - [x] Métodos(toda função que está dentro de um objeto) de Array: push, [find,forEach,filter,map]: HOF (Higher Order Fuctions)
 
   ## Functions
   - [x]Criar, passar argumentos
