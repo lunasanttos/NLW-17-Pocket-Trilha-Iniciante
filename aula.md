@@ -6,12 +6,12 @@
   >  **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
-- [x]Comentários
+- [x]Comentários //
 - [x]Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - [x]Tipos de dados (string, number, boolean)
 - [x]Estrutura de Dados (functions, object, array)
-- Controle de fluxo (if/else)
+- [x]Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
 ## Fases da resolução de un problema
@@ -32,9 +32,10 @@
 
 ## Operadores
 
-- [x]Operadores de atribuição de valor =
-- [x]Operador de concatenação +
+- [x]Operadores de atribuição de valor: =
+- [x]Operador de concatenação: +
 - [x]Boolean: true ou false
+- [x]Operadores de comparação: == > < <= >= !=
 
 ## Estrutura de dados
 
@@ -56,7 +57,8 @@
 
   # Estrutura Condicionais
 
-  - [x] switch
+  - [x] Switch
+  - [x] Controle de Fluxo (IF/ELSE)
 
   # Módulos em Node.js
 
