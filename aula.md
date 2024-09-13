@@ -27,10 +27,26 @@
 
 ## Tipos de Dados
 
-- Strings (textos) "" '' ``
-- Number: 2 1.4
-- Functions
+- [x]Strings (textos) "" '' ``
+- [x]Number: 2 1.4
 
 ## Operadores
 
-- Operadores de atribuição de valor
+- [x]Operadores de atribuição de valor =
+- [x]Operador de concatenação +
+- [x]Boolean: true ou false
+
+## Estrutura de dados
+
+  ### Arrays
+  - [x] Uma lista que contém qualquer tipo de dado
+
+  ## Functions
+  - [x]Criar, passar argumentos
+  - [x]Executar
+  - [x]Arrow Function / named functionn
+
+  ### Objetso
+  - [x] Atributos e métodos
+  - [x] Criação e manipulação de objetos
+  - [x]Acesso a propriedades de objetos
