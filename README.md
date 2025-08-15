@@ -21,7 +21,3 @@ Todos os dados são persistidos em JSON, garantindo que as metas sejam salvas e 
 
 - JavaScript — Lógica e interatividade do sistema
 - JSON — Armazenamento e recuperação de dados
-
-JavaScript — Lógica e interatividade do sistema
-
-JSON — Armazenamento e recuperação de dados
